@@ -99,6 +99,6 @@ theme: landscape
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://github.com/tonyjkuang/tonyjkuang
+  repo: https://github.com/tonyjkuang/tonyjkuang/tree/master/hexo
   branch: gh-pages
   message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
