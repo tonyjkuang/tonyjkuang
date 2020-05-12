@@ -102,3 +102,6 @@ deploy:
   repo: https://github.com/tonyjkuang/tonyjkuang/tree/master/hexo
   branch: gh-pages
   message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
+  type: heroku
+  repo: https://github.com/tonyjkuang/tonyjkuang/tree/master/hexo
+  message: Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}
